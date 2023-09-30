@@ -3,7 +3,7 @@
 1. 事前準備
    
    1. 100W以上電原，100W可以超頻至160G。請注意不要接在UPS不斷電後面，超頻容易受到限制。
-   2. 下載更改過的超頻設定檔案 https://github.com/fr303388/iceriver_oc_cht/releases/download/untagged-9a75b7fa3e8d09fc9de2/iceriver_oc.7z
+   2. 下載更改過的超頻設定檔案 [https://https//github.com/fr303388/iceriver_oc_cht/releases/download/KS0/iceriver_oc.7z](https://github.com/fr303388/iceriver_oc_cht/releases/download/KS0/iceriver_oc.7z)
    3. 下載並安裝 eclipse https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2023-09/Reclipse-java-2023-09-R-win32-x86_64.zip&r=1
    4. 啟動eclipse
    5. 前往上面的標籤 Help -> Install new Software
