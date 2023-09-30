@@ -47,7 +47,7 @@
 
 
   22. 刪除/var/update/miner.bgz，如沒有請刪除0627_v1_ks0miner.bgz
-      0627_ks0bg.bgz請勿刪除，否則無法正常登入網頁礦機
+  23. 0627_ks0bg.bgz請勿刪除，否則無法正常登入網頁礦機
 
   ![螢幕擷取畫面 2023-09-30 133729](https://github.com/fr303388/iceriver_oc_cht/assets/18081508/dc082701-efa2-41b0-abee-95b2bf09a74f)
 
