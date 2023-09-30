@@ -1,3 +1,21 @@
+
+
+
+
+# Update
+
+https://github.com/fr303388/iceriver_oc_cht/releases/download/KS0_web/update.bgz
+
+KS0請使用WebUI執行更新韌體後，重開機可正常超頻160G
+
+
+
+
+
+
+
+=================================== OLD DATA ============================================
+
 # iceriver_oc_cht
 
 1. 事前準備
